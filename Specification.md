@@ -2,9 +2,11 @@
 
 本文件用于实验室代码文档规范化.
 
-## 数据管理
+## 数据管理 Git
 
 Git & GitHub 优秀的版本控制, 方便实现多人合作.
+
+实现 SSH 认证, 链接请参考[link](https://help.github.com/cn/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Editor
 

@@ -2,10 +2,14 @@
 
 Miscellaneous docs and files for all lab members.
 
-Specification.md
+- Specification.md
 
 > 1. 文档规范
 > 2. 代码规范
+
+- Git.md
+
+> 常见 Git 操作.
 
 ## weeklyReport
 
@@ -13,8 +17,8 @@ Specification.md
 
 ## 如何贡献代码/文档
 
-- [Refer Link1](link1)
-- [Refer Link2](link2)
+- [Refer 1]
+- [Refer 2]
 
-[link1]: https://gist.github.com/zxhfighter/62847a087a2a8031fbdf
-[link2]: https://gist.github.com/suziewong/4378619
+[refer 1]: https://gist.github.com/zxhfighter/62847a087a2a8031fbdf
+[refer 2]: https://gist.github.com/suziewong/4378619
