@@ -9,17 +9,18 @@
 内容大致格式可为如下
 
 ```markdown
----
-paper: Paper Name
-public date: 2020-02 发表日期(年月)
-keywords: [A、B]
-type: 论文发布点, 如 USENIX
-author: 可用昵称, 毕竟公开仓库
-date: 2020-03-30 (这部分作可选项)
----
+# Paper Name
+
+- public date: 2020-02 发表日期(年月)
+- keywords: [A、B]
+- type: 论文发布点, 如 USENIX
+- author: 昵称.etc
+- date: 2020-xx 报告日期, 可选
 
 主体
 ```
+
+有兴趣可查查 vscode snippet 将上述内容作模板.
 
 主体大致分一些部分如
 
